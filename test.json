@@ -1,0 +1,60 @@
+{
+    "links": [
+        {
+            "relation": "菜系为",
+            "source": "苏帮袁Sue Cuisine(朝阳大悦城店)",
+            "target": "淮扬菜",
+            "value": 3
+        },
+        {
+            "relation": "推荐菜",
+            "source": "苏帮袁Sue Cuisine(朝阳大悦城店)",
+            "target": "年糕火锅",
+            "value": 3
+        },
+        {
+            "relation": "所在区域为",
+            "source": "苏帮袁Sue Cuisine(朝阳大悦城店)",
+            "target": "朝阳大悦城",
+            "value": 3
+        },
+        {
+            "relation": "所在城市为",
+            "source": "朝阳大悦城",
+            "target": "北京",
+            "value": 3
+        }
+    ],        
+    "nodes": [
+        {
+            "class": "Type",
+            "group": "4",
+            "id": "淮扬菜",
+            "size": 5
+        },
+        {
+            "class": "Restaurant",
+            "group": "4",
+            "id": "苏帮袁Sue Cuisine(朝阳大悦城店)",
+            "size": 8
+        },
+        {
+            "class": "Recommend",
+            "group": "4",
+            "id": "年糕火锅",
+            "size": 10
+        },
+        {
+            "class": "Local",
+            "group": "1",
+            "id": "朝阳大悦城",
+            "size": 14
+        },
+        {
+            "class": "City",
+            "group": "0",
+            "id": "北京",
+            "size": 20
+        }
+    ]
+}
