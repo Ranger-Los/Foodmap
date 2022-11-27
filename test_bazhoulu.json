@@ -1,0 +1,60 @@
+{
+    "links": [
+        {
+            "relation": "所在区域为",
+            "source": "阿力木江·艾力烤肉店",
+            "target": "巴州路",
+            "value": 3
+        },
+        {
+            "relation": "所在区域为",
+            "source": "冷库一号土火锅",
+            "target": "巴州路",
+            "value": 3
+        },
+        {
+            "relation": "菜系为",
+            "source": "阿力木江·艾力烤肉店",
+            "target": "烧烤烤串",
+            "value": 3
+        },
+        {
+            "relation": "菜系为",
+            "source": "冷库一号土火锅",
+            "target": "炭火锅",
+            "value": 3
+        },
+        {
+            "relation": "所在城市为",
+            "source": "巴州路",
+            "target": "乌鲁木齐",
+            "value": 3
+        }
+    ],
+    "nodes": [
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "阿力木江·艾力烤肉店",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "冷库一号土火锅",
+            "size": 8
+        },
+        {
+            "class": "Local",
+            "group": "1",
+            "id": "巴州路",
+            "size": 14
+        },
+        {
+            "class": "City",
+            "group": "0",
+            "id": "乌鲁木齐",
+            "size": 20
+        }
+    ]
+}
