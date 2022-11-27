@@ -39,6 +39,18 @@
             "size": 8
         },
         {
+            "class": "Type",
+            "group": "4",
+            "id": "烧烤烤串",
+            "size": 5
+        },
+        {
+            "class": "Type",
+            "group": "4",
+            "id": "炭火锅",
+            "size": 5
+        },
+        {
             "class": "Restaurant",
             "group": "3",
             "id": "冷库一号土火锅",
