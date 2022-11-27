@@ -8,12 +8,6 @@
         },
         {
             "relation": "所在区域为",
-            "source": "VERANO RISTORANTE&LOUNGE意大利餐厅(友好时尚购物城...",
-            "target": "河南西路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
             "source": "老铁家羊羔肉",
             "target": "地窝堡国际机场",
             "value": 3
@@ -50,44 +44,8 @@
         },
         {
             "relation": "所在区域为",
-            "source": "胖老汉新疆特色椒麻鸡(河南东路店)",
-            "target": "河南东路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "额尔敦传统涮火锅(南湖店)",
-            "target": "华凌干果市场",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "礼舍日式和牛火锅",
-            "target": "红山路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "膳良鲜森·居酒屋(时代广场CCmall店)",
-            "target": "红山路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "吾吾子羊羔肉专卖店(新民路美食街店)",
-            "target": "红山路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
             "source": "老幺英雄火锅(科技馆店)",
             "target": "阿勒泰路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "星期五拉丁餐厅",
-            "target": "红旗路",
             "value": 3
         },
         {
@@ -98,38 +56,8 @@
         },
         {
             "relation": "所在区域为",
-            "source": "北山柒号",
-            "target": "红山路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "雪莲山餐饮",
-            "target": "河南东路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "R·O·S·E ChillHouse(CCMall时代广场店)",
-            "target": "红山路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
             "source": "全聚德(北京路店)",
             "target": "北京南路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "云聚汇牛很鲜潮汕牛肉火锅(时代广场店)",
-            "target": "红山路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "鸿顺昌饭店·见方养生小馆",
-            "target": "二宫体育馆",
             "value": 3
         },
         {
@@ -152,38 +80,8 @@
         },
         {
             "relation": "所在区域为",
-            "source": "东来顺饭庄(文化路店)",
-            "target": "红旗路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
             "source": "麻辣空间·清油火锅(大西沟店)",
             "target": "北京南路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "新明洞芝士年糕火锅(星辰汇店)",
-            "target": "光明路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "肯德基(铁路店)",
-            "target": "河南东路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "夺食冰煮羊私房火锅(宝山路店)",
-            "target": "红十月",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "马克西姆的黑店",
-            "target": "红山路",
             "value": 3
         },
         {
@@ -200,20 +98,8 @@
         },
         {
             "relation": "所在区域为",
-            "source": "椒尚椒新疆良汤火锅(跃进街店)",
-            "target": "后泉路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
             "source": "鑫盛华丸子汤(油运司店)",
             "target": "阿勒泰路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "望塔便民茶餐吧",
-            "target": "红山路",
             "value": 3
         },
         {
@@ -224,20 +110,8 @@
         },
         {
             "relation": "所在区域为",
-            "source": "贤合庄卤味火锅(时代广场店)",
-            "target": "红山路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
             "source": "酷可茶饮(百花村店)",
             "target": "大西门商业圈",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "九田家黑牛烤肉料理(CCmall店)",
-            "target": "光明路",
             "value": 3
         },
         {
@@ -248,32 +122,8 @@
         },
         {
             "relation": "所在区域为",
-            "source": "德克士(二宫店)",
-            "target": "河南西路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "爷爷的土钵菜(河南东路店)",
-            "target": "河南东路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "必胜客(北京中路店)",
-            "target": "河南东路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
             "source": "米字格米粉(大寨沟店)",
             "target": "北京南路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "彼得潘的餐厅",
-            "target": "红旗路",
             "value": 3
         },
         {
@@ -284,38 +134,8 @@
         },
         {
             "relation": "所在区域为",
-            "source": "小尕子·新疆菜(塔里木店)",
-            "target": "二宫体育馆",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
             "source": "乌鲁木齐环球国际大酒店",
             "target": "北京南路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "西北石油酒店",
-            "target": "河南东路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "麦趣尔(铁路局三分店)",
-            "target": "河南西路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "韩国美食店",
-            "target": "红旗路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "肯德基(红旗店)",
-            "target": "红旗路",
             "value": 3
         },
         {
@@ -326,68 +146,14 @@
         },
         {
             "relation": "所在区域为",
-            "source": "一号桥自助火锅",
-            "target": "红山路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "乐赞客咖啡 Rizih Coffee(时代广场店)",
-            "target": "红山路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "一号桥自助火锅",
-            "target": "红山路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
             "source": "外婆土钵菜(红庙子路东三巷店)",
             "target": "阿勒泰路",
             "value": 3
         },
         {
             "relation": "所在区域为",
-            "source": "饼司令·肉夹馍·米皮·现熬粥(红山路店)",
-            "target": "红山路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "吾饮良品水果茶(欧乐星城店)",
-            "target": "红旗路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "太平洋咖啡(时代广场店)",
-            "target": "红山路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
             "source": "穆哈大盘鸡(蟠龙山庄店)",
             "target": "仓房沟",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "吾饮良品水果茶(时代广场CCMALL店)",
-            "target": "红山路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "东北虎菜馆",
-            "target": "河南西路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "小刘快餐(第一分店)",
-            "target": "红旗路",
             "value": 3
         },
         {
@@ -400,12 +166,6 @@
             "relation": "所在区域为",
             "source": "王签签烤涮",
             "target": "阿勒泰路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "曲奇蛋糕(红十月店)",
-            "target": "红十月",
             "value": 3
         },
         {
@@ -428,12 +188,6 @@
         },
         {
             "relation": "所在区域为",
-            "source": "塔里木石油酒",
-            "target": "二宫体育馆",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
             "source": "茶百道(莱茵庄园店)",
             "target": "地窝堡国际机场",
             "value": 3
@@ -452,92 +206,14 @@
         },
         {
             "relation": "所在区域为",
-            "source": "鹿港有约(红山店)",
-            "target": "光明路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "乔治.香颂生活馆(红山转盘店)",
-            "target": "红山路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "太平洋咖啡(汇嘉店)",
-            "target": "河南东路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "疯鱼军团(红山店)",
-            "target": "光明路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "斗牛星选牛排餐厅(汇嘉店)",
-            "target": "河南东路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "咔赞和田美食",
-            "target": "华凌干果市场",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "巴特鱼庄(果树巷店)",
-            "target": "光明路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "鹿港有约·台式茶餐厅(红旗路旗舰店)",
-            "target": "红旗路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "三品煌桂林米粉螺蛳粉(总店)",
-            "target": "二宫体育馆",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "AILI爱的礼物(林子校店)",
-            "target": "河南西路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
             "source": "地王空中夜市",
             "target": "仓房沟",
             "value": 3
         },
         {
             "relation": "所在区域为",
-            "source": "洪七公吃串串(植物园店)",
-            "target": "二宫体育馆",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "味什么牛现切牛肉火锅",
-            "target": "华凌干果市场",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
             "source": "巅峰食客",
             "target": "北京南路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "华凌干鲜果品市场",
-            "target": "华凌干果市场",
             "value": 3
         },
         {
@@ -554,26 +230,8 @@
         },
         {
             "relation": "所在区域为",
-            "source": "黄六爷辣爆小公鸡面(时代广场店)",
-            "target": "光明路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "大河宴·椒麻鱼(红山路店)",
-            "target": "红山路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
             "source": "心岸(嘉禾园店)",
             "target": "阿勒泰路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "乔治香颂(汇嘉三楼店)",
-            "target": "河南东路",
             "value": 3
         },
         {
@@ -584,38 +242,14 @@
         },
         {
             "relation": "所在区域为",
-            "source": "玲玲米粉(中山路店)",
-            "target": "红旗路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
             "source": "国泰大饭店",
             "target": "阿勒泰路",
             "value": 3
         },
         {
             "relation": "所在区域为",
-            "source": "鸡排王(红旗路店)",
-            "target": "红旗路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "葡萄树(铁路局店)",
-            "target": "河南西路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
             "source": "天山宴域新疆菜·烧烤",
             "target": "仓房沟",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "海大海鲜餐饮广场",
-            "target": "华凌干果市场",
             "value": 3
         },
         {
@@ -632,44 +266,8 @@
         },
         {
             "relation": "所在区域为",
-            "source": "签王之王(铁路局店)",
-            "target": "河南西路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "阿妈妮韩国料理(财大店)",
-            "target": "二宫体育馆",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
             "source": "家家大盘鸡专卖",
             "target": "地窝堡国际机场",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "川合顺麻辣香锅(红山新世纪购物广场店)",
-            "target": "光明路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "小苏味道·少東家肉夹馍",
-            "target": "二宫体育馆",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "薪火炙日式烧肉·酒场(铁路局漫街店)",
-            "target": "河南东路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "一捧饭团(北京路汇嘉店)",
-            "target": "河南东路",
             "value": 3
         },
         {
@@ -692,18 +290,6 @@
         },
         {
             "relation": "所在区域为",
-            "source": "汉堡王(时代广场店)",
-            "target": "红山路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "意佳西餐(金实业精品广场店)",
-            "target": "河南东路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
             "source": "西域蚂蚁现拉黄面·烧烤(大寨沟店)",
             "target": "北京南路",
             "value": 3
@@ -716,26 +302,8 @@
         },
         {
             "relation": "所在区域为",
-            "source": "美丽华•新疆餐厅",
-            "target": "光明路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
             "source": "逸香阁土火锅烧烤",
             "target": "东风路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "阿胜甲鱼村海鲜火锅",
-            "target": "光明路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "小尕子·新疆菜(北京中路汇嘉店)",
-            "target": "河南东路",
             "value": 3
         },
         {
@@ -758,12 +326,6 @@
         },
         {
             "relation": "所在区域为",
-            "source": "67℃芦花鸡主题餐厅(红山西路店)",
-            "target": "红山路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
             "source": "天易石板煎肉",
             "target": "仓房沟",
             "value": 3
@@ -772,12 +334,6 @@
             "relation": "所在区域为",
             "source": "沙味王大盘鸡(北京路店)",
             "target": "北京南路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "茶百道(二宫店)",
-            "target": "二宫体育馆",
             "value": 3
         },
         {
@@ -800,32 +356,8 @@
         },
         {
             "relation": "所在区域为",
-            "source": "正新鸡排(红旗路店)",
-            "target": "红旗路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "麦趣尔(南门店)",
-            "target": "红旗路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "CAFFE PASCUCCI(时代广场店)",
-            "target": "红山路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
             "source": "玉兰辣子鸡(北京南路店)",
             "target": "北京南路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "麦趣尔(铁路局二分店)",
-            "target": "河南西路",
             "value": 3
         },
         {
@@ -836,38 +368,8 @@
         },
         {
             "relation": "所在区域为",
-            "source": "乔治香颂(红山新世纪店)",
-            "target": "红山路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "啊丫米线总店",
-            "target": "河南东路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "鲜师傅香辣蟹(奥林小区店)",
-            "target": "河南东路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "那家小锅回转火锅(红十月店)",
-            "target": "红十月",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
             "source": "AILI爱的礼物(小西沟店)",
             "target": "北京南路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "正新鸡排(OL星辰汇店)",
-            "target": "光明路",
             "value": 3
         },
         {
@@ -878,38 +380,8 @@
         },
         {
             "relation": "所在区域为",
-            "source": "粥饼7号馆",
-            "target": "红山路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
             "source": "碧流河炖鸡馆",
             "target": "北京南路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "劳道新疆菜(植物园店)",
-            "target": "二宫体育馆",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "嘉轩(红旗路店)",
-            "target": "红旗路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "饼司令·现熬粥·肉夹馍·米皮(漫街店)",
-            "target": "河南东路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "太平洋咖啡(人民医院店)",
-            "target": "国际大巴扎",
             "value": 3
         },
         {
@@ -920,20 +392,8 @@
         },
         {
             "relation": "所在区域为",
-            "source": "斗牛星选牛排餐厅(CC MALL时代广场店)",
-            "target": "光明路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
             "source": "勤和居(北园春店)",
             "target": "阿勒泰路",
-            "value": 3
-        },
-        {
-            "relation": "所在区域为",
-            "source": "鹿港有约·台式茶餐厅(铁路局店)",
-            "target": "河南西路",
             "value": 3
         },
         {
@@ -956,12 +416,6 @@
         },
         {
             "relation": "菜系为",
-            "source": "VERANO RISTORANTE&LOUNGE意大利餐厅(友好时尚购物城...",
-            "target": "西餐",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
             "source": "老铁家羊羔肉",
             "target": "其他中餐",
             "value": 3
@@ -998,44 +452,8 @@
         },
         {
             "relation": "菜系为",
-            "source": "胖老汉新疆特色椒麻鸡(河南东路店)",
-            "target": "新疆菜",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "额尔敦传统涮火锅(南湖店)",
-            "target": "炭火锅",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "礼舍日式和牛火锅",
-            "target": "日式火锅",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "膳良鲜森·居酒屋(时代广场CCmall店)",
-            "target": "日本料理",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "吾吾子羊羔肉专卖店(新民路美食街店)",
-            "target": "新疆菜",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
             "source": "老幺英雄火锅(科技馆店)",
             "target": "重庆火锅",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "星期五拉丁餐厅",
-            "target": "自助餐",
             "value": 3
         },
         {
@@ -1046,38 +464,8 @@
         },
         {
             "relation": "菜系为",
-            "source": "北山柒号",
-            "target": "其他美食",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "雪莲山餐饮",
-            "target": "特色菜",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "R·O·S·E ChillHouse(CCMall时代广场店)",
-            "target": "西餐",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
             "source": "全聚德(北京路店)",
             "target": "烤鸭",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "云聚汇牛很鲜潮汕牛肉火锅(时代广场店)",
-            "target": "潮汕牛肉火锅",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "鸿顺昌饭店·见方养生小馆",
-            "target": "创意菜",
             "value": 3
         },
         {
@@ -1100,38 +488,8 @@
         },
         {
             "relation": "菜系为",
-            "source": "东来顺饭庄(文化路店)",
-            "target": "老北京火锅",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
             "source": "麻辣空间·清油火锅(大西沟店)",
             "target": "四川火锅",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "新明洞芝士年糕火锅(星辰汇店)",
-            "target": "韩国料理",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "肯德基(铁路店)",
-            "target": "西式快餐",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "夺食冰煮羊私房火锅(宝山路店)",
-            "target": "火锅",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "马克西姆的黑店",
-            "target": "西北民间菜",
             "value": 3
         },
         {
@@ -1148,20 +506,8 @@
         },
         {
             "relation": "菜系为",
-            "source": "椒尚椒新疆良汤火锅(跃进街店)",
-            "target": "火锅",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
             "source": "鑫盛华丸子汤(油运司店)",
             "target": "快餐简餐",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "望塔便民茶餐吧",
-            "target": "特色菜",
             "value": 3
         },
         {
@@ -1172,20 +518,8 @@
         },
         {
             "relation": "菜系为",
-            "source": "贤合庄卤味火锅(时代广场店)",
-            "target": "火锅",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
             "source": "酷可茶饮(百花村店)",
             "target": "茶饮果汁",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "九田家黑牛烤肉料理(CCmall店)",
-            "target": "韩式烤肉",
             "value": 3
         },
         {
@@ -1196,32 +530,8 @@
         },
         {
             "relation": "菜系为",
-            "source": "德克士(二宫店)",
-            "target": "西式快餐",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "爷爷的土钵菜(河南东路店)",
-            "target": "湘菜",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "必胜客(北京中路店)",
-            "target": "比萨",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
             "source": "米字格米粉(大寨沟店)",
             "target": "快餐简餐",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "彼得潘的餐厅",
-            "target": "西餐",
             "value": 3
         },
         {
@@ -1232,38 +542,8 @@
         },
         {
             "relation": "菜系为",
-            "source": "小尕子·新疆菜(塔里木店)",
-            "target": "新疆菜",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
             "source": "乌鲁木齐环球国际大酒店",
             "target": "自助餐",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "西北石油酒店",
-            "target": "自助餐",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "麦趣尔(铁路局三分店)",
-            "target": "面包烘焙",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "韩国美食店",
-            "target": "韩国料理",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "肯德基(红旗店)",
-            "target": "西式快餐",
             "value": 3
         },
         {
@@ -1274,68 +554,14 @@
         },
         {
             "relation": "菜系为",
-            "source": "一号桥自助火锅",
-            "target": "自助餐",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "乐赞客咖啡 Rizih Coffee(时代广场店)",
-            "target": "咖啡厅",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "一号桥自助火锅",
-            "target": "自助餐",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
             "source": "外婆土钵菜(红庙子路东三巷店)",
             "target": "湘菜",
             "value": 3
         },
         {
             "relation": "菜系为",
-            "source": "饼司令·肉夹馍·米皮·现熬粥(红山路店)",
-            "target": "小吃面食",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "吾饮良品水果茶(欧乐星城店)",
-            "target": "茶饮果汁",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "太平洋咖啡(时代广场店)",
-            "target": "咖啡厅",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
             "source": "穆哈大盘鸡(蟠龙山庄店)",
             "target": "新疆菜",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "吾饮良品水果茶(时代广场CCMALL店)",
-            "target": "茶饮果汁",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "东北虎菜馆",
-            "target": "东北菜",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "小刘快餐(第一分店)",
-            "target": "快餐简餐",
             "value": 3
         },
         {
@@ -1348,12 +574,6 @@
             "relation": "菜系为",
             "source": "王签签烤涮",
             "target": "火锅",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "曲奇蛋糕(红十月店)",
-            "target": "面包烘焙",
             "value": 3
         },
         {
@@ -1376,12 +596,6 @@
         },
         {
             "relation": "菜系为",
-            "source": "塔里木石油酒",
-            "target": "自助餐",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
             "source": "茶百道(莱茵庄园店)",
             "target": "茶饮果汁",
             "value": 3
@@ -1400,92 +614,14 @@
         },
         {
             "relation": "菜系为",
-            "source": "鹿港有约(红山店)",
-            "target": "其他中餐",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "乔治.香颂生活馆(红山转盘店)",
-            "target": "面包烘焙",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "太平洋咖啡(汇嘉店)",
-            "target": "咖啡厅",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "疯鱼军团(红山店)",
-            "target": "烤鱼",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "斗牛星选牛排餐厅(汇嘉店)",
-            "target": "西餐",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "咔赞和田美食",
-            "target": "新疆菜",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "巴特鱼庄(果树巷店)",
-            "target": "新疆菜",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "鹿港有约·台式茶餐厅(红旗路旗舰店)",
-            "target": "粤菜",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "三品煌桂林米粉螺蛳粉(总店)",
-            "target": "桂林米粉",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "AILI爱的礼物(林子校店)",
-            "target": "面包烘焙",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
             "source": "地王空中夜市",
             "target": "快餐简餐",
             "value": 3
         },
         {
             "relation": "菜系为",
-            "source": "洪七公吃串串(植物园店)",
-            "target": "串串香",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "味什么牛现切牛肉火锅",
-            "target": "潮汕牛肉火锅",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
             "source": "巅峰食客",
             "target": "家常菜",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "华凌干鲜果品市场",
-            "target": "更多食品滋补",
             "value": 3
         },
         {
@@ -1502,25 +638,7 @@
         },
         {
             "relation": "菜系为",
-            "source": "黄六爷辣爆小公鸡面(时代广场店)",
-            "target": "快餐简餐",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "大河宴·椒麻鱼(红山路店)",
-            "target": "酸菜鱼/水煮鱼",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
             "source": "心岸(嘉禾园店)",
-            "target": "面包烘焙",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "乔治香颂(汇嘉三楼店)",
             "target": "面包烘焙",
             "value": 3
         },
@@ -1532,38 +650,14 @@
         },
         {
             "relation": "菜系为",
-            "source": "玲玲米粉(中山路店)",
-            "target": "快餐简餐",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
             "source": "国泰大饭店",
             "target": "新疆菜",
             "value": 3
         },
         {
             "relation": "菜系为",
-            "source": "鸡排王(红旗路店)",
-            "target": "炸鸡炸串",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "葡萄树(铁路局店)",
-            "target": "面包烘焙",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
             "source": "天山宴域新疆菜·烧烤",
             "target": "新疆菜",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "海大海鲜餐饮广场",
-            "target": "海鲜",
             "value": 3
         },
         {
@@ -1580,44 +674,8 @@
         },
         {
             "relation": "菜系为",
-            "source": "签王之王(铁路局店)",
-            "target": "串串香",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "阿妈妮韩国料理(财大店)",
-            "target": "韩国料理",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
             "source": "家家大盘鸡专卖",
             "target": "新疆菜",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "川合顺麻辣香锅(红山新世纪购物广场店)",
-            "target": "干锅/香锅",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "小苏味道·少東家肉夹馍",
-            "target": "快餐简餐",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "薪火炙日式烧肉·酒场(铁路局漫街店)",
-            "target": "日式烧烤/烤肉",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "一捧饭团(北京路汇嘉店)",
-            "target": "快餐简餐",
             "value": 3
         },
         {
@@ -1640,18 +698,6 @@
         },
         {
             "relation": "菜系为",
-            "source": "汉堡王(时代广场店)",
-            "target": "西式快餐",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "意佳西餐(金实业精品广场店)",
-            "target": "西餐",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
             "source": "西域蚂蚁现拉黄面·烧烤(大寨沟店)",
             "target": "特色菜",
             "value": 3
@@ -1664,26 +710,8 @@
         },
         {
             "relation": "菜系为",
-            "source": "美丽华•新疆餐厅",
-            "target": "新疆菜",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
             "source": "逸香阁土火锅烧烤",
             "target": "火锅",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "阿胜甲鱼村海鲜火锅",
-            "target": "海鲜火锅",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "小尕子·新疆菜(北京中路汇嘉店)",
-            "target": "新疆菜",
             "value": 3
         },
         {
@@ -1706,12 +734,6 @@
         },
         {
             "relation": "菜系为",
-            "source": "67℃芦花鸡主题餐厅(红山西路店)",
-            "target": "新疆菜",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
             "source": "天易石板煎肉",
             "target": "韩式烤肉",
             "value": 3
@@ -1720,12 +742,6 @@
             "relation": "菜系为",
             "source": "沙味王大盘鸡(北京路店)",
             "target": "新疆菜",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "茶百道(二宫店)",
-            "target": "茶饮果汁",
             "value": 3
         },
         {
@@ -1748,32 +764,8 @@
         },
         {
             "relation": "菜系为",
-            "source": "正新鸡排(红旗路店)",
-            "target": "炸鸡炸串",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "麦趣尔(南门店)",
-            "target": "面包烘焙",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "CAFFE PASCUCCI(时代广场店)",
-            "target": "咖啡厅",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
             "source": "玉兰辣子鸡(北京南路店)",
             "target": "新疆菜",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "麦趣尔(铁路局二分店)",
-            "target": "面包烘焙",
             "value": 3
         },
         {
@@ -1784,38 +776,8 @@
         },
         {
             "relation": "菜系为",
-            "source": "乔治香颂(红山新世纪店)",
-            "target": "面包烘焙",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "啊丫米线总店",
-            "target": "快餐简餐",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "鲜师傅香辣蟹(奥林小区店)",
-            "target": "川菜馆",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "那家小锅回转火锅(红十月店)",
-            "target": "小火锅",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
             "source": "AILI爱的礼物(小西沟店)",
             "target": "面包烘焙",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "正新鸡排(OL星辰汇店)",
-            "target": "炸鸡炸串",
             "value": 3
         },
         {
@@ -1826,38 +788,8 @@
         },
         {
             "relation": "菜系为",
-            "source": "粥饼7号馆",
-            "target": "小吃快餐",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
             "source": "碧流河炖鸡馆",
             "target": "农家菜",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "劳道新疆菜(植物园店)",
-            "target": "新疆菜",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "嘉轩(红旗路店)",
-            "target": "面包烘焙",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "饼司令·现熬粥·肉夹馍·米皮(漫街店)",
-            "target": "快餐简餐",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "太平洋咖啡(人民医院店)",
-            "target": "咖啡厅",
             "value": 3
         },
         {
@@ -1868,20 +800,8 @@
         },
         {
             "relation": "菜系为",
-            "source": "斗牛星选牛排餐厅(CC MALL时代广场店)",
-            "target": "西餐",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
             "source": "勤和居(北园春店)",
             "target": "川菜馆",
-            "value": 3
-        },
-        {
-            "relation": "菜系为",
-            "source": "鹿港有约·台式茶餐厅(铁路局店)",
-            "target": "粤菜",
             "value": 3
         },
         {
@@ -1949,895 +869,13 @@
             "source": "东风路",
             "target": "乌鲁木齐",
             "value": 3
-        },
-        {
-            "relation": "所在城市为",
-            "source": "二宫体育馆",
-            "target": "乌鲁木齐",
-            "value": 3
-        },
-        {
-            "relation": "所在城市为",
-            "source": "光明路",
-            "target": "乌鲁木齐",
-            "value": 3
-        },
-        {
-            "relation": "所在城市为",
-            "source": "国际大巴扎",
-            "target": "乌鲁木齐",
-            "value": 3
-        },
-        {
-            "relation": "所在城市为",
-            "source": "河南东路",
-            "target": "乌鲁木齐",
-            "value": 3
-        },
-        {
-            "relation": "所在城市为",
-            "source": "河南西路",
-            "target": "乌鲁木齐",
-            "value": 3
-        },
-        {
-            "relation": "所在城市为",
-            "source": "红旗路",
-            "target": "乌鲁木齐",
-            "value": 3
-        },
-        {
-            "relation": "所在城市为",
-            "source": "红山路",
-            "target": "乌鲁木齐",
-            "value": 3
-        },
-        {
-            "relation": "所在城市为",
-            "source": "红十月",
-            "target": "乌鲁木齐",
-            "value": 3
-        },
-        {
-            "relation": "所在城市为",
-            "source": "后泉路",
-            "target": "乌鲁木齐",
-            "value": 3
-        },
-        {
-            "relation": "所在城市为",
-            "source": "华凌干果市场",
-            "target": "乌鲁木齐",
-            "value": 3
         }
     ],
     "nodes": [
         {
             "class": "Restaurant",
             "group": "3",
-            "id": "东来顺饭庄(文化路店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "AILI爱的礼物(林子校店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "老幺英雄火锅(科技馆店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "巴特6＋1音乐餐吧",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "大河宴·椒麻鱼(红山路店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "家家大盘鸡专卖",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "饼司令·现熬粥·肉夹馍·米皮(漫街店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "贤合庄卤味火锅(时代广场店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "东北虎菜馆",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "友好时光咖啡(钱塘江路店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "AILI爱的礼物(迎宾路店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "VERANO RISTORANTE&LOUNGE意大利餐厅(友好时尚购物城...",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "九田家黑牛烤肉料理(CCmall店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "AILI爱里·爱的礼物(油运司店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "饼司令·肉夹馍·米皮·现熬粥(红山路店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "疯鱼军团(红山店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "爷爷的土钵菜(河南东路店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "天山宴域新疆菜·烧烤",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "乔治香颂(红山新世纪店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "小尕子·新疆菜(塔里木店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "米字格米粉(大寨沟店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "幸福西饼生日蛋糕",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "R·O·S·E ChillHouse(CCMall时代广场店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "葡萄树(铁路局店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "德克士(二宫店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "望塔便民茶餐吧",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "云聚汇牛很鲜潮汕牛肉火锅(时代广场店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "酷可茶饮(百花村店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "伟福记成都小吃(福润德店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "黑天鹅秘语蛋糕会所blackswanluxurycake",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "薪火炙日式烧肉·酒场(铁路局漫街店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "牛太爷鲜切牛肉火锅殿",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "星期五拉丁餐厅",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "胖老汉(北京路店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "纳西龙记斑鱼火锅(钱塘江路店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "太平洋咖啡(时代广场店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "火宴山海鲜自助火锅(酱园店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "味什么牛现切牛肉火锅",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "意佳西餐(金实业精品广场店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "美心黄面(北京路店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "华凌干鲜果品市场",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "彼得潘的餐厅",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "茶百道(莱茵庄园店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "三品煌桂林米粉螺蛳粉(总店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "新明洞芝士年糕火锅(星辰汇店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "七十七万年",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "西域蚂蚁现拉黄面·烧烤(大寨沟店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "啊丫米线总店",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "上海城隍庙灌汤包(温州街店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "CAFFE PASCUCCI(时代广场店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "故事里的炸鸡(南湖北路店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "鲜师傅香辣蟹(奥林小区店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "地王空中夜市",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "鹿港有约·台式茶餐厅(铁路局店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "湘媳妇庭院餐厅",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "67℃芦花鸡主题餐厅(红山西路店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "麦趣尔(铁路局二分店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "乌鲁木齐环球国际大酒店",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "吾饮良品水果茶(欧乐星城店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "北山柒号",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "胖老汉新疆特色椒麻鸡(河南东路店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "西北石油酒店",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "小苏味道·少東家肉夹馍",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "那家小锅回转火锅(莱茵庄园店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "太平洋咖啡(人民医院店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "塔里木石油酒",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "御记三汁养生焖锅(福润德店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "baursak包尔萨克早餐屋",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "心岸(嘉禾园店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "玲玲米粉(中山路店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "AILI爱的礼物(大寨沟店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "雪莲山餐饮",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "乔治香颂(瑞泰店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "膳良鲜森·居酒屋(时代广场CCmall店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "阿胜甲鱼村海鲜火锅",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "一捧饭团(北京路汇嘉店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "肯德基(铁路店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "额尔敦传统涮火锅(南湖店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "乔治香颂(天百店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "勤和居(北园春店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "乔治.香颂生活馆(红山转盘店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "那家小锅回转火锅(红十月店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "必胜客(北京中路店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "鹿港有约(红山店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "黄六爷辣爆小公鸡面(时代广场店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "签签游火锅串串香(大湾店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "咔赞和田美食",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "粥饼7号馆",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "青年街区兄弟烤串.烧烤爱上串串(阿勒泰路店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "椒尚椒新疆良汤火锅(跃进街店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
             "id": "九田家黑牛烤肉料理(钱塘江友好店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "太平洋咖啡(汇嘉店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "原体育馆哈斯木烤肉店",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "海大海鲜餐饮广场",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "外婆土钵菜(红庙子路东三巷店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "嘉轩(红旗路店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "鸿顺昌饭店·见方养生小馆",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "大河宴鱼馆·椒麻鱼火锅(北京路中和美食街店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "麦趣尔(铁路局三分店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "顾永山塔城美食(天缘店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "巅峰食客",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "鹿港有约·台式茶餐厅(红旗路旗舰店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "王签签烤涮",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "签王之王(铁路局店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "汉堡王(时代广场店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "美丽华•新疆餐厅",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "巴特鱼庄(果树巷店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "正新鸡排(小西沟家乐福店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "川合顺麻辣香锅(红山新世纪购物广场店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "国泰大饭店",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "斗牛星选牛排餐厅(CC MALL时代广场店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "阿力木江·艾力烤肉店",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "洪七公吃串串(植物园店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "鸡排王(红旗路店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "鑫盛华丸子汤(油运司店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "碧流河炖鸡馆",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "原前进街阿孜古丽烤包子店",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "正新鸡排(红旗路店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "逸香阁土火锅烧烤",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "全聚德(北京路店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "天易石板煎肉",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "乔治香颂(汇嘉三楼店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "肯德基(红旗店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "沙味王大盘鸡(北京路店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "马克西姆的黑店",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "麻辣空间·清油火锅(大西沟店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "夺食冰煮羊私房火锅(宝山路店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "茶百道(二宫店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "百富烤霸(国际置地店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "劳道新疆菜(植物园店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "吾饮良品水果茶(时代广场CCMALL店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "吾吾子羊羔肉专卖店(新民路美食街店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "海龙泉酒店(友好路店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "礼舍日式和牛火锅",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "冷库一号土火锅",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "笑迎宾 新疆味道",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "乐赞客咖啡 Rizih Coffee(时代广场店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "AILI爱的礼物(小西沟店)",
             "size": 8
         },
         {
@@ -2849,49 +887,175 @@
         {
             "class": "Restaurant",
             "group": "3",
-            "id": "正新鸡排(OL星辰汇店)",
+            "id": "老铁家羊羔肉",
             "size": 8
         },
         {
             "class": "Restaurant",
             "group": "3",
-            "id": "曲奇蛋糕(红十月店)",
+            "id": "外婆土钵菜(红庙子路东三巷店)",
             "size": 8
         },
         {
             "class": "Restaurant",
             "group": "3",
-            "id": "小尕子·新疆菜(北京中路汇嘉店)",
+            "id": "国泰大饭店",
             "size": 8
         },
         {
             "class": "Restaurant",
             "group": "3",
-            "id": "玉兰辣子鸡(北京南路店)",
+            "id": "沙味王大盘鸡(北京路店)",
             "size": 8
         },
         {
             "class": "Restaurant",
             "group": "3",
-            "id": "牛市鲜牛肉火锅",
+            "id": "地王空中夜市",
             "size": 8
         },
         {
             "class": "Restaurant",
             "group": "3",
-            "id": "小尕子·新疆菜(酱园店)",
+            "id": "椒尚椒新疆良汤火锅(富康街店)",
             "size": 8
         },
         {
             "class": "Restaurant",
             "group": "3",
-            "id": "一号桥自助火锅",
+            "id": "米字格米粉(大寨沟店)",
             "size": 8
         },
         {
             "class": "Restaurant",
             "group": "3",
-            "id": "阿妈妮韩国料理(财大店)",
+            "id": "西域蚂蚁现拉黄面·烧烤(大寨沟店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "逸香阁土火锅烧烤",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "百富烤霸(国际置地店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "AILI爱里·爱的礼物(油运司店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "全聚德(北京路店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "家家大盘鸡专卖",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "AILI爱的礼物(小西沟店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "湘媳妇庭院餐厅",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "阿力木江·艾力烤肉店",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "乌鲁木齐环球国际大酒店",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "王签签烤涮",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "笑迎宾 新疆味道",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "友好时光咖啡(钱塘江路店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "海龙泉酒店(友好路店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "原前进街阿孜古丽烤包子店",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "碧流河炖鸡馆",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "七十七万年",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "乔治香颂(天百店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "牛太爷鲜切牛肉火锅殿",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "心岸(嘉禾园店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "勤和居(北园春店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "幸福西饼生日蛋糕",
             "size": 8
         },
         {
@@ -2903,13 +1067,7 @@
         {
             "class": "Restaurant",
             "group": "3",
-            "id": "斗牛星选牛排餐厅(汇嘉店)",
-            "size": 8
-        },
-        {
-            "class": "Restaurant",
-            "group": "3",
-            "id": "老铁家羊羔肉",
+            "id": "酷可茶饮(百花村店)",
             "size": 8
         },
         {
@@ -2921,25 +1079,133 @@
         {
             "class": "Restaurant",
             "group": "3",
+            "id": "baursak包尔萨克早餐屋",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
             "id": "心岸(小西沟店)",
             "size": 8
         },
         {
             "class": "Restaurant",
             "group": "3",
-            "id": "韩国美食店",
+            "id": "麻辣空间·清油火锅(大西沟店)",
             "size": 8
         },
         {
             "class": "Restaurant",
             "group": "3",
-            "id": "麦趣尔(南门店)",
+            "id": "正新鸡排(小西沟家乐福店)",
             "size": 8
         },
         {
             "class": "Restaurant",
             "group": "3",
-            "id": "小刘快餐(第一分店)",
+            "id": "AILI爱的礼物(大寨沟店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "签签游火锅串串香(大湾店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "牛市鲜牛肉火锅",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "巴特6＋1音乐餐吧",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "小尕子·新疆菜(酱园店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "乔治香颂(瑞泰店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "茶百道(莱茵庄园店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "原体育馆哈斯木烤肉店",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "故事里的炸鸡(南湖北路店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "胖老汉(北京路店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "御记三汁养生焖锅(福润德店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "鑫盛华丸子汤(油运司店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "美心黄面(北京路店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "黑天鹅秘语蛋糕会所blackswanluxurycake",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "青年街区兄弟烤串.烧烤爱上串串(阿勒泰路店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "那家小锅回转火锅(莱茵庄园店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "顾永山塔城美食(天缘店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "上海城隍庙灌汤包(温州街店)",
             "size": 8
         },
         {
@@ -2951,7 +1217,67 @@
         {
             "class": "Restaurant",
             "group": "3",
-            "id": "椒尚椒新疆良汤火锅(富康街店)",
+            "id": "天易石板煎肉",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "玉兰辣子鸡(北京南路店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "AILI爱的礼物(迎宾路店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "伟福记成都小吃(福润德店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "老幺英雄火锅(科技馆店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "大河宴鱼馆·椒麻鱼火锅(北京路中和美食街店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "巅峰食客",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "冷库一号土火锅",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "纳西龙记斑鱼火锅(钱塘江路店)",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "天山宴域新疆菜·烧烤",
+            "size": 8
+        },
+        {
+            "class": "Restaurant",
+            "group": "3",
+            "id": "火宴山海鲜自助火锅(酱园店)",
             "size": 8
         },
         {
@@ -3006,66 +1332,6 @@
             "class": "Local",
             "group": "1",
             "id": "东风路",
-            "size": 14
-        },
-        {
-            "class": "Local",
-            "group": "1",
-            "id": "二宫体育馆",
-            "size": 14
-        },
-        {
-            "class": "Local",
-            "group": "1",
-            "id": "光明路",
-            "size": 14
-        },
-        {
-            "class": "Local",
-            "group": "1",
-            "id": "国际大巴扎",
-            "size": 14
-        },
-        {
-            "class": "Local",
-            "group": "1",
-            "id": "河南东路",
-            "size": 14
-        },
-        {
-            "class": "Local",
-            "group": "1",
-            "id": "河南西路",
-            "size": 14
-        },
-        {
-            "class": "Local",
-            "group": "1",
-            "id": "红旗路",
-            "size": 14
-        },
-        {
-            "class": "Local",
-            "group": "1",
-            "id": "红山路",
-            "size": 14
-        },
-        {
-            "class": "Local",
-            "group": "1",
-            "id": "红十月",
-            "size": 14
-        },
-        {
-            "class": "Local",
-            "group": "1",
-            "id": "后泉路",
-            "size": 14
-        },
-        {
-            "class": "Local",
-            "group": "1",
-            "id": "华凌干果市场",
             "size": 14
         },
         {
